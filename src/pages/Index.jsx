@@ -1,5 +1,5 @@
-import { Container, Text, VStack, Heading, Button, Box, Image, Flex, HStack, Link, SimpleGrid, Stack } from "@chakra-ui/react";
-import { FaRocket, FaFacebook, FaTwitter, FaLinkedin } from "react-icons/fa";
+import { Container, Text, VStack, Heading, Box, Flex, HStack, Link, SimpleGrid } from "@chakra-ui/react";
+import { FaFacebook, FaTwitter, FaLinkedin } from "react-icons/fa";
 
 const Index = () => {
   return (
